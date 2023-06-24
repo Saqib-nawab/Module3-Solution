@@ -1,0 +1,27 @@
+.navbar{
+  background-color: rgb(143, 141, 139);
+}
+.navbar-brand{
+  text-decoration:solid ;
+  margin-left: 25px;
+}
+.horizontal-lines {
+  width: 30px;
+  height: 5px;
+  background-color: white;
+  border: 1px solid white;
+  margin-bottom: 5px;
+}
+.text-center{
+font-size: 40px;
+margin-top: 30px;
+}
+
+.navbar.bg-body-tertiary.bg-primary{
+  border: 2px solid black;
+}
+
+.box{
+  background-color: rgb(143, 141, 139);
+}
+
